@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeloveO
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python-related projects
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning at ALX-Africa
+- 💞️ I’m looking to collaborate on Software engineering-related projects
 - 📫 How to reach me beloveolusola@gmail.com
 
 <!---
