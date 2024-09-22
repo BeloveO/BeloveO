@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeloveO
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently enrolled at ALX-Africa
+- 🌱 I am a graduate of ALX-Africa
 - 💞️ I’m looking to collaborate on Software engineering-related projects
 - 📫 How to reach me beloveolusola@gmail.com
 
