@@ -26,6 +26,7 @@ I am a passionate and dedicated developer who takes pride in building efficient,
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-405976?logo=mysql&logoColor=white)
 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
