@@ -38,10 +38,10 @@ I am a passionate and dedicated developer who takes pride in building efficient,
 
 ---
 
-### 📈 GitHub Stats & Highlights
+<!---### 📈 GitHub Stats & Highlights
 
 [![Belove's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeloveO&show_icons=true&theme=radical&hide_rank=true)](https://github.com/BeloveO)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeloveO&layout=compact&theme=radical)](https://github.com/BeloveO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeloveO&layout=compact&theme=radical)](https://github.com/BeloveO) --->
 
 *   🔭 I’m currently working on **["AirBnB Clone"](https://github.com/BeloveO/airbnb-clone-project.git)** - a comprehensive, full-stack, scalable, real-world marketplace web application that allows users to rent out their properties (hosts) and book accommodations (guests), mimicking core functionality of the Airbnb platform.
 *   🌱 I’m currently learning about **Celery, Redis, Docker**.
