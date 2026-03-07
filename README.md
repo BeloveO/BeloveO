@@ -44,7 +44,7 @@ I am a passionate and dedicated developer who takes pride in building efficient,
 
 *   I’m always looking to collaborate on **open-source projects related to [Web Development]**.
 *   Ask me about **backend architecture, database optimization, or [Software implementation]**.
-*   Fun fact: I ** [am a Veterinarian, and have had about 4 different careers] **.
+*   Fun fact: **I am a Veterinarian, and have had about 4 different careers**.
 
 ---
 
