@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/belove-olusola/)  
 [![Email](https://img.shields.io/badge/Email-Me%20Here-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beloveolusola@gmail.com)
-[![Portfolio]((https://img.shields.io))](https://beloveolusola.vercel.app)
+[![Portfolio]((https://img.shields.io/badge/Check-Me%20Here))](https://beloveolusola.vercel.app)
 
 **`Backend Engineer | Technical Implementation Specialist | Data Analyst`**
 
