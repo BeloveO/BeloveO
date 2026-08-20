@@ -6,7 +6,11 @@
 
 **`Backend Engineer | Technical Implementation Specialist | Data Analyst`**
 
-Full-Stack Software Engineer with 2+ years of experience across software development, technical implementation, AI training, and business operations.
+- Full-Stack Software Engineer with 2+ years of experience across software development, technical implementation, AI training, and business operations.
+- Developed production-grade full-stack applications and RESTful APIs using Django, MERN, REST, and GraphQL which delivered scalable and reliable software solutions 
+- Curated and analyzed high-quality frontend, backend, and coding datasets which improved AI model performance in UI/UX generation and code interpretation 
+- Built secure role-based systems and integrated third-party APIs using JWT, Docker, and Celery which demonstrated strong system design and production-level development practices 
+- Analyzed customer and sales pipeline data using Salesforce CRM to identify market trends and support sales strategies; fluent in English, Yoruba, and Igbo
 
 ---
 
