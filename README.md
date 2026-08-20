@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/belove-olusola/)  
 [![Email](https://img.shields.io/badge/Email-Me%20Here-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beloveolusola@gmail.com)   
 
-**`Backend Engineer | Technical Implementation Specialist`**
+**`Backend Engineer | Technical Implementation Specialist | Data Analyst`**
 
-I am a passionate and dedicated developer who takes pride in building efficient, scalable and impactful solutions that can be used by everyone in easing the tediousness of everyday activities. I believe in clean code, continuous learning and the power of collaboration to turn even the most complex tasks into efficient software.
+Full-Stack Software Engineer with 2+ years of experience across software development, technical implementation, AI training, and business operations.
 
 ---
 
