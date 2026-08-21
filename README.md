@@ -16,30 +16,12 @@
 
 ### What I bring to the Table:
 
-*   **Technical Proficiency:** Deep experience with **MERN Stack, Django Framework, SQL**
-*   **Engineering Mindset:** A focus on **system design, performance optimization, and maintainable code.** I don't just make it work; I make it work *well*.
-*   **Collaboration & Communication:** Proven ability to work effectively in **Agile teams**, communicate complex ideas clearly, and mentor peers.
-*   **Fast Learner:** Enthusiastic about diving into new technologies and domains to deliver the best tool for the job.
-
----
-
-### Languages and Tools
-
-**Backend & Databases:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-405976?logo=mysql&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
+*   **Programming Languages:** **SQL**, **Python** (Django, Flask, Kivy, Pandas, Numpy, Matplotlib, Plotly, Dash, Scikit),**JavaScript(React (Vite), Next.js, Express.js, Node.js), HTML/CSS**
+*   **Databases:** PostgreSQL, MongoDB, MySQL, SQLite, PostgreSQL 
+*   **DevOps & Tools:** Docker, Kubernetes, Jenkins, Git/GitHub, Postman, Celery, Salesforce, IBM Watson Studio, Jupyter Notebook, Microsoft Office,Google collab, Google Workspace
+*   **APIs & Architecture:** REST, GraphQL, JWT Authentication, PayPal API, Environment Canada API
+*   **Visualization, Cloud and AI:** IBM Cognos Analytics, IBM Cloud, ChatCSV, Mostly.AI, SQLthroughAI
+*   **Project Management:** Agile, Scrum, Kanban, Trello
 ---
 
 <!---### 📈 GitHub Stats & Highlights
